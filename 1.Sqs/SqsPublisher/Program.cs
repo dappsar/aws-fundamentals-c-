@@ -10,7 +10,7 @@ var customer = new CustomerCreated
 {
     Id = Guid.NewGuid(),
     Email = "dapps.ar@gmail.com",
-    FullName = "juan peez",
+    FullName = "juan perez",
     DateOfBirth = new DateTime(1980, 1, 1),
     GitHubUsername = "dappsar"
 };
